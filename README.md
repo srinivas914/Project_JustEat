@@ -9,9 +9,10 @@ Following are required to be installed and configured on system to run the proje
 	   `ChromeDriver` (Version 83.0.4103.39 is used for testing the application)
 
 ### Installing
-Once the prerequisites are fulfilled, Project can be down loaded using the link below from Github. 
+Once the prerequisites are fulfilled, Project can be down loaded using the link below from Github.
+https://github.com/srinivas914/Project_JustEat.git
 
-## Running the tests
+### Running the tests
 
 After installing the project, check for any errors. 
 If there are no errors,execute the below steps:
