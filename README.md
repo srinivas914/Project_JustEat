@@ -13,7 +13,6 @@ Once the prerequisites are fulfilled, Project can be down loaded using the link 
 https://github.com/srinivas914/Project_JustEat.git
 
 ### Running the tests
-
 After installing the project, check for any errors. 
 If there are no errors,execute the below steps:
 	Step-1:  go to package `testRunner` in `src/test/java`
