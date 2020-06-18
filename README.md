@@ -12,6 +12,8 @@ Following are required to be installed and configured on system to run the proje
 Once the prerequisites are fulfilled, Project can be down loaded using the link below from Github.
 https://github.com/srinivas914/Project_JustEat.git
 
+- Add the dependency location of `tools.jar` of Java JDK into `<systemPath>` of `POM.xml` file
+
 ### Running the tests
 After installing the project, check for any errors. 
 If there are no errors,execute the below steps:
