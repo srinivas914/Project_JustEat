@@ -12,8 +12,8 @@ Web application for finding the take away restaurants
 	
 2.	What do you think is the most interesting trend in test automation?
 	
-	Ans:	(a). Enhancement through DevOps
-			(b). Self healing Test Automation and Hyper Automation using AI and Machine learning concepts
+	Ans:	-(a). Enhancement through DevOps
+		-(b). Self healing Test Automation and Hyper Automation using AI and Machine learning concepts
 
 3.	How would you implement test automation in a legacy application? Have you ever had to do this?
 	
